@@ -12,4 +12,8 @@ This project transforms a **Raspberry Pi 3B+** into a casual retro gaming consol
 - SSH and SMB accessible for managing system files remotely.
 - Fully customizable interface using Git for theme updates.
 
+## 🎥 Demo Video and Images
+Check out the setup and gameplay here:  
+👉 [Watch on Google Drive](https://drive.google.com/drive/folders/1M_wGc_qZCmhUrOptcHP5wsGVipXIECHP?usp=share_link)
+
 ## More on project will be released soon stay tuned...
