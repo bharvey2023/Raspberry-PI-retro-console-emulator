@@ -29,7 +29,7 @@ def poweroff():
 		os.system("sudo killall emulationstation")
 		os.system("sudo killall emulationstatio") #RetroPie 4.6
 		os.system("sudo sleep 5s")
-		os.system("sudo shutdown -h now")
+		os.system("sudo shutdown -h now") #Only line I had to chnage thats all will contribute one day
 
 #blinks the LED to signal button being pushed
 def ledBlink():
